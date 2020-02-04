@@ -1,0 +1,1 @@
+The script stores the final Excel-file and all plots in this folder.
